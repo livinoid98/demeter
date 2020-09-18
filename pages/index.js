@@ -24,8 +24,7 @@ const Home = () => {
                     <img src="/img/purple_line.png" alt=""/>
                     <span>[데메테르] 머스크 바디세트+소이캔들 /DMC02351</span>
                     <img src="/img/powdery_musk_text.png" alt=""/>
-                    <button></button>
-                    <button></button>
+                    <Link href="/gift"><a><button>Gift Set</button></a></Link>
                 </div>
                 <div className="powdery_musk"></div>
             </div>

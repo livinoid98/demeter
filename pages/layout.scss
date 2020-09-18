@@ -106,12 +106,11 @@
             border:1px solid #fff;
             position:absolute;
             top:394px;
-            &:nth-child(6){
-                left:664px;
-            }
-            &:nth-child(7){
-                left:826px;
-            }
+            left:664px;
+            cursor:pointer;
+            font-size:14px;
+            font-weight:400;
+            color:#fff;
         }
     }
     .powdery_musk{
